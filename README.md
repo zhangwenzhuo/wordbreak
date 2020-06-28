@@ -1,5 +1,5 @@
 
-##Dictionary 
+## Dictionary 
 
 Dictionary responsible  for checking a string whether considered to be a word. There are 2 
 implementation :
@@ -8,7 +8,7 @@ implementation :
 
 
 
-##WordBreaker 
+## WordBreaker 
 
 WordBreaker is designed to find all possible combination of words from input string.
 There are 3 implementation:
